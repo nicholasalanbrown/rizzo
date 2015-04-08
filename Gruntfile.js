@@ -173,6 +173,7 @@ module.exports = function(grunt) {
                 pickadate: "./vendor/assets/javascripts/pickadate",
                 polyfills: "./vendor/assets/javascripts/polyfills",
                 usabilla: "./vendor/assets/javascripts/usabilla",
+                amazon: "./vendor/assets/javascripts/amazon",
                 picker: "vendor/assets/javascripts/pickadate/lib/picker",
                 pickerDate: "./vendor/assets/javascripts/pickadate/lib/picker.date",
                 pickerLegacy: "./vendor/assets/javascripts/pickadate/lib/legacy",
