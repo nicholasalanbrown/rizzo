@@ -23,7 +23,7 @@
 }
 
 @mixin bottom-heading-border() {
-  border-bottom: 2px solid $h2-border-color;
+  border-bottom: 2px solid $h2-secondary-color;
   width: 31px;
   display: block;
   content: "";

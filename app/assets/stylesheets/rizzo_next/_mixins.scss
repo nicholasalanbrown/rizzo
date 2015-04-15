@@ -19,3 +19,9 @@ $base-font-size: 14 !default;
   z-index: 1;
   transform: translateZ(0);
 }
+
+@mixin component-width() {
+  max-width: 1500px;
+  margin: 0 auto;
+  width: 80%;
+}
